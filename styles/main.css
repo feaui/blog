@@ -1649,14 +1649,22 @@ td {
       }
     
       .post-detail .post .post-content p {
-        font-size: 12px;
+        font-size: 14px;
+      }
+    
+      body {
+        background: #f7f7f7;
+      }
+    
+      body {
+        color: #393e46;
       }
     
       a {
-        color: #343a40;
+        color: #5c636e;
       }
     
       a:hover {
-        color: #ff8787;
+        color: #f8b500;
       }
     
